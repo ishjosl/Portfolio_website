@@ -24,7 +24,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 To get a local copy up and running, follow these steps:
 1. Git clone
 
-git clone https://github.com/ishjosl/portfolio-website.git
+git clone https://github.com/ishjosl/Portfolio_website.git
    
 3. Navigate to the project directory:
 
