@@ -1,5 +1,5 @@
 # Personal Portfolio
-Welcome to my personal portfolio! This project showcases my skills, projects, and experiences as a developer. Here, you can find information about my work, contact details, and links to my social media profiles.
+Welcome to my portfolio! This project showcases my skills, projects, and experiences as a developer. Here, you can find information about my work, contact details, and links to my social media profiles.
 ## Table of Contents
 - Features
 - Technologies Used
@@ -16,19 +16,17 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ## Technologies Used
 - HTML
-- CSS3
+- CSS
 - JavaScript
 - Git & GitHub for version control
 
 ## Installation
 To get a local copy up and running, follow these steps:
 1. Git clone
-
 git clone https://github.com/ishjosl/Portfolio_website.git
    
 3. Navigate to the project directory:
-
-cd portfolio-website
+cd Portfolio_website
 
 5. Open index.html in your web browser.
 
